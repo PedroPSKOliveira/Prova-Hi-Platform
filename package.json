@@ -1,0 +1,14 @@
+{
+  "name": "sync-a-b",
+  "version": "1.0.0",
+  "description": "Sincronizacao de cadastros do Sistema A (ERP) para o Sistema B (CRM)",
+  "type": "module",
+  "main": "src/main.js",
+  "scripts": {
+    "sync": "node src/main.js",
+    "test": "node --test tests/*.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
